@@ -1,0 +1,2 @@
+# ScrollAddTextTest
+ScrollViewに動的にTextを追加して，正しく機能するか確かめるためのもの．サンプルコードとして作成
